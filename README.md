@@ -1,6 +1,6 @@
-Covid-19 Data Analysis
+#Covid-19 Data Analysis
 
-For Analysing Covid-19 Various Python Libraries are used
+#For Analysing Covid-19 Various Python Libraries are used:
 
 Pandas (Python library that high-performance, easy to use structures and data analysis tools)
 
